@@ -3,9 +3,8 @@ import type { Metadata } from "next/metadata"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Campus SkillXChange - FUTO Campus Skill Exchange Platform",
+  title: "Campus SkillXChange",
   description: "Connect with FUTO students to exchange knowledge and learn new skills through peer-to-peer learning",
-  generator: "Campus Skill Exchange Platform",
 }
 
 export default function RootLayout({

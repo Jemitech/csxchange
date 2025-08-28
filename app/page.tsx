@@ -4,7 +4,7 @@ import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Users, MessageCircle, Star, ArrowRight, CheckCircle } from "lucide-react"
+import { Users, Star, ArrowRight, CheckCircle } from "lucide-react"
 import Link from "next/link"
 
 export default function HomePage() {
